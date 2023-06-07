@@ -1,3 +1,3 @@
-module github.com/DataIntelligenceCrew/go-faiss
+module github.com/fkurushin/go-faiss
 
-go 1.14
+go 1.17
